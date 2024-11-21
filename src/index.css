@@ -1,0 +1,18 @@
+.modal-header {
+  display: flex;
+  align-items: center;
+}
+
+.modal-header img {
+  border: 2px solid #ccc;
+}
+
+.modal-footer .btn-outline-danger {
+  color: red;
+  border-color: red;
+}
+
+.modal-footer .btn-outline-danger:hover {
+  background-color: red;
+  color: white;
+}
